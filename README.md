@@ -1,16 +1,9 @@
-@kyooreas #repo-name#
+Personal website/project with a goal to have a fast and fully web-accessible website.
 
-@kyooreas #repo-name# is a ???
+## Goals
 
-## Installation
-
-1. 
-2. 
-3. 
-
-## Feature List
-
-1. 
+1. Fast = less than 3 minutes
+2. Fully Web Accessible
 
 ## License
 [UNLICENSE](http://unlicense.org/)
