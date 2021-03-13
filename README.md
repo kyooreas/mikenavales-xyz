@@ -1,9 +1,5 @@
-Personal website/project with a goal to have a fast and fully web-accessible website.
+<h1 align="center">
+  Mike Navales Online CV
+</h1>
 
-## Goals
-
-1. Fast = less than 3 minutes
-2. Fully Web Accessible
-
-## License
-[UNLICENSE](http://unlicense.org/)
+> mikenavales.xyz is the online CV of Mike Navales. It will be using the <a href="https://github.com/kyooreas/accessible-online-cv">AOCV template</a>.
