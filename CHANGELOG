@@ -6,6 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0] - 2021-03-15
+### Added
+- Add blog subdirectory
+- Categorize blog posts into year/month subfolders
+### Changed
+- Separated CSS (css/styles.css)
+- Updated URL of Blog link under online presence
+### Removed
+- Remove blog.mikenavales.xyz under projects
+
 ## [0.1.0] - 2021-03-14
 ### Added
 - Use template: https://github.com/kyooreas/accessible-online-cv
